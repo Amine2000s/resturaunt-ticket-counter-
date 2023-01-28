@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674916244 source:c:\users\amin\desktop\stack_resturaunt\resto\main.c
+	"stacck.h"
+
+1674916228 c:\users\amin\desktop\stack_resturaunt\resto\stacck.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674916527 source:c:\users\amin\desktop\stack_resturaunt\resto\stacck.c
+	"stacck.h"
+
